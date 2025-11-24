@@ -1,3 +1,4 @@
+[Portfolio Optimization MCP](https://github.com/irresi/bl-view-mcp)
 
 [ccxt/ccxt contributions](https://github.com/ccxt/ccxt/pulls?q=is%3Apr+involves%3Airresi+is%3Aclosed)
 
